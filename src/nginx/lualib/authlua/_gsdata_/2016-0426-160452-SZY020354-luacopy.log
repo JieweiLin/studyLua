@@ -1,0 +1,10 @@
+2016-04-26 16:04:53: -- Analysis Started by On File Change Incremental
+2016-04-26 16:04:53: 变更：1， 冲突：， 复制时间：， 复制状态：/， 错误： , All: 17
+2016-04-26 16:04:53: Left to Right: Copy File: 1 
+2016-04-26 16:04:53: == Sync Started by On File Change Incremental
+2016-04-26 16:04:53: 覆盖复制 'F:/lua/NginxAuth/src/authlua/cookie.lua' -> '//192.168.2.177/openresty/lualib/authlua/cookie.lua'
+2016-04-26 16:04:53: ===== ：同步完毕。时间：00:00:00，速度： 0 字节/s =====, 项目同步未必： 1，错误： 
+2016-04-26 16:04:54: -- Analysis Started by On File Change PostSync Re-Analyze
+2016-04-26 16:04:55: 变更：， 冲突：， 复制时间：， 复制状态：/， 错误： , All: 17
+2016-04-26 16:04:55: ----- ：分析已结束。 历时 00:00:02， 速度： 8 个文件/秒 -----
+2016-04-26 16:04:55: 

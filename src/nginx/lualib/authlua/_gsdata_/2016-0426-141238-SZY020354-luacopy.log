@@ -1,0 +1,29 @@
+2016-04-26 14:12:39: -- Analysis Started by On File Change 1st Full Analyze
+2016-04-26 14:12:39: 2016/4/26 14:12:39: 暂停
+2016-04-26 14:12:50: 2016/4/26 14:12:50: 继续
+2016-04-26 14:12:50: 左侧: State file does not exist: F:/lua/NginxAuth/src/authlua/_gsdata_/_file_state_v4._gs
+2016-04-26 14:12:50: 右侧: State file does not exist: //192.168.2.177/openresty/lualib/authlua/_gsdata_/_file_state_v4._gs
+2016-04-26 14:12:50: 变更：16， 冲突：， 复制时间：， 复制状态：/， 错误： , All: 17
+2016-04-26 14:12:50: Left to Right: Copy File: 16 
+2016-04-26 14:12:50: == Sync Started by On File Change 1st Full Analyze
+2016-04-26 14:12:50: 新建复制 'F:/lua/NginxAuth/src/authlua/access_by_lua.lua' -> '//192.168.2.177/openresty/lualib/authlua/access_by_lua.lua'
+2016-04-26 14:12:51: 新建复制 'F:/lua/NginxAuth/src/authlua/accessbylua.lua' -> '//192.168.2.177/openresty/lualib/authlua/accessbylua.lua'
+2016-04-26 14:12:51: 新建复制 'F:/lua/NginxAuth/src/authlua/backup.lua' -> '//192.168.2.177/openresty/lualib/authlua/backup.lua'
+2016-04-26 14:12:51: 新建复制 'F:/lua/NginxAuth/src/authlua/cookie.lua' -> '//192.168.2.177/openresty/lualib/authlua/cookie.lua'
+2016-04-26 14:12:51: 新建复制 'F:/lua/NginxAuth/src/authlua/gan.lua' -> '//192.168.2.177/openresty/lualib/authlua/gan.lua'
+2016-04-26 14:12:51: 新建复制 'F:/lua/NginxAuth/src/authlua/initcache.lua' -> '//192.168.2.177/openresty/lualib/authlua/initcache.lua'
+2016-04-26 14:12:51: 新建复制 'F:/lua/NginxAuth/src/authlua/ipblack.lua' -> '//192.168.2.177/openresty/lualib/authlua/ipblack.lua'
+2016-04-26 14:12:51: 新建复制 'F:/lua/NginxAuth/src/authlua/main.lua' -> '//192.168.2.177/openresty/lualib/authlua/main.lua'
+2016-04-26 14:12:51: 新建复制 'F:/lua/NginxAuth/src/authlua/nginxlogin.lua' -> '//192.168.2.177/openresty/lualib/authlua/nginxlogin.lua'
+2016-04-26 14:12:51: 新建复制 'F:/lua/NginxAuth/src/authlua/redis_config.lua' -> '//192.168.2.177/openresty/lualib/authlua/redis_config.lua'
+2016-04-26 14:12:51: 新建复制 'F:/lua/NginxAuth/src/authlua/redis_iresty.lua' -> '//192.168.2.177/openresty/lualib/authlua/redis_iresty.lua'
+2016-04-26 14:12:51: 新建复制 'F:/lua/NginxAuth/src/authlua/reqauth.lua' -> '//192.168.2.177/openresty/lualib/authlua/reqauth.lua'
+2016-04-26 14:12:51: 新建复制 'F:/lua/NginxAuth/src/authlua/reqcodeblack.lua' -> '//192.168.2.177/openresty/lualib/authlua/reqcodeblack.lua'
+2016-04-26 14:12:52: 新建复制 'F:/lua/NginxAuth/src/authlua/square.lua' -> '//192.168.2.177/openresty/lualib/authlua/square.lua'
+2016-04-26 14:12:52: 新建复制 'F:/lua/NginxAuth/src/authlua/test.lua' -> '//192.168.2.177/openresty/lualib/authlua/test.lua'
+2016-04-26 14:12:52: 新建复制 'F:/lua/NginxAuth/src/authlua/wocao.lua' -> '//192.168.2.177/openresty/lualib/authlua/wocao.lua'
+2016-04-26 14:12:52: ===== ：同步完毕。时间：00:00:02，速度： 10.2 KB/s =====, 项目同步未必： 16，错误： 
+2016-04-26 14:12:53: -- Analysis Started by On File Change PostSync Re-Analyze
+2016-04-26 14:12:53: 变更：， 冲突：， 复制时间：， 复制状态：/， 错误： , All: 17
+2016-04-26 14:12:53: ----- ：分析已结束。 历时 00:00:03， 速度： 5 个文件/秒 -----
+2016-04-26 14:12:53: 
