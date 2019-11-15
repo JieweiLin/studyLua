@@ -6,11 +6,11 @@ function _M.getSecret()
   return secret
 end
 
-local host = "rm-bp1reoh578a3i57vj.mysql.rds.aliyuncs.com";
+local host = "";
 local port = 3306;
-local database = "dbtoken";
-local user = "dbtoken";
-local password = "795PC7Hx8SyH";
+local database = "";
+local user = "";
+local password = "";
 
 
 function _M.getHost()
