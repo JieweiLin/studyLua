@@ -35,3 +35,8 @@ y = 200
 print("交换前, x:" .. x .. ", y:" .. y)
 x, y = y, x
 print("交换后, x:" .. x .. ", y:" .. y)
+
+a = { i = 50, j = 500 }
+print("交换前, a[i]:" .. a.i .. ", a[j]:" .. a.j)
+a.i, a.j = a.j, a.i
+print("交换后, a[i]:" .. a.i .. ", a[j]:" .. a.j)
