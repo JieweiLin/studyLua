@@ -1,4 +1,4 @@
-local secret = "SZX:2rW]4kLzms6u";
+local secret = "";
 
 local _M = {_VERSION = "0.1"}
 
